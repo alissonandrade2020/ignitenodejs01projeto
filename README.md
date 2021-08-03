@@ -144,7 +144,7 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
 
 ## Apresentação:
 
-- [Currículo Lattes](http://lattes.cnpq.br/7594653859194302)
+-- [Currículo Lattes](http://lattes.cnpq.br/7594653859194302)
 
  - [Linkedin](https://www.linkedin.com/in/alisson-de-andrade-ara%C3%BAjo-160224190)
 
@@ -168,7 +168,11 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
 
 - [Site DtMoney - Ignite 2](https://dtmoneyignite.vercel.app/)
 
+- [Site Dashgo - Ignite 3](https://dashgoalisson.vercel.app/)
+
 - [Site WatchMe Trilha Extra - Ignite 2](https://ignitewatchmeextra.vercel.app/)
+
+- [Site IgNews - Ignite Chapter 3](ignewsalisson.vercel.app/)
  
 -  [Site de Repositorios - Alisson de Andrade Araújo (Github)](https://igniterepositorios.vercel.app/)
  
@@ -177,8 +181,14 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
+
+ - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.herokuapp.com/)
+
+ - [Credit Card](https://creditcardalissonandrade.vercel.app/)
   
  - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
+ 
+  - [PODCASTR - Tudo sobre audio - NLW5](https://podcastralisson.vercel.app)
  
   - [PROFFY - Encontre seu Professor ou tenha aula online](https://proffyalissonandrade.netlify.app)
   
